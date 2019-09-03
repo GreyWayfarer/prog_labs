@@ -1,0 +1,5 @@
+*.o
+bin/
+src/*.c.swp
+!makefile
+
